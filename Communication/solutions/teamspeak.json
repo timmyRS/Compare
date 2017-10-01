@@ -5,60 +5,80 @@
 			"support": 0,
 			"info": "Windows, macOS & Linux. Installation required.",
 			"cites": [
-				"http://www.teamspeak.com/en/downloads.html"
+				"http:\/\/www.teamspeak.com\/en\/downloads.html"
 			]
 		},
 		"mobile": {
 			"support": 0,
 			"info": "Android & iOS. Payment required.",
 			"cites": [
-				"http://www.teamspeak.com/en/downloads.html",
-				"https://play.google.com/store/apps/details?id=com.teamspeak.ts3client",
-				"https://itunes.apple.com/de/app/teamspeak-3/id577628510"
+				"http:\/\/www.teamspeak.com\/en\/downloads.html",
+				"https:\/\/play.google.com\/store\/apps\/details?id=com.teamspeak.ts3client",
+				"https:\/\/itunes.apple.com\/de\/app\/teamspeak-3\/id577628510"
 			]
 		},
 		"overlay": {
 			"support": 0,
 			"info": "External program which only injects itself into games.",
 			"cites": [
-				"https://www.overwolf.com/app/Overwolf-TeamSpeak",
-				"https://techcrunch.com/2011/12/14/overwolf-partners-with-teamspeak-to-give-online-games-a-social-boost-and-in-game-voice-chat/"
+				"https:\/\/www.overwolf.com\/app\/Overwolf-TeamSpeak",
+				"https:\/\/techcrunch.com\/2011\/12\/14\/overwolf-partners-with-teamspeak-to-give-online-games-a-social-boost-and-in-game-voice-chat\/"
 			]
 		},
-		"hotkeys": {"support": 1},
-		"permissions": {"support": 1},
+		"hotkeys": {
+			"support": 1
+		},
+		"permissions": {
+			"support": 1
+		},
 		"encryption": {
 			"support": 0,
 			"info": "Optional voice-only encryption.",
 			"cites": [
-				"https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/328/12/does-teamspeak-3-encrypt-my-voice-packets"
+				"https:\/\/support.teamspeakusa.com\/index.php?\/Knowledgebase\/Article\/View\/328\/12\/does-teamspeak-3-encrypt-my-voice-packets"
 			]
 		},
-		"notifications": {"support": 1},
+		"notifications": {
+			"support": 1
+		},
 		"formatting": {
 			"support": 1,
 			"info": "BBCode"
 		},
-		"emoji": {"support": 1},
-		"editing": {"support": -1},
-		"files": {"support": 1},
-		"previews": {"support": -1},
-		"codec": {"info": "CELT, Speex, Opus"},
+		"emoji": {
+			"support": 1
+		},
+		"editing": {
+			"support": -1
+		},
+		"files": {
+			"support": 1
+		},
+		"previews": {
+			"support": -1
+		},
+		"codec": {
+			"info": "CELT, Speex, Opus"
+		},
 		"volumecontrol": {
 			"support": 0,
 			"info": "Manual volume control"
 		},
-		"voice": {"support": 1},
-		"video": {"support": -1},
+		"voice": {
+			"support": 1
+		},
+		"video": {
+			"support": -1
+		},
 		"api": {
 			"support": 1,
-			"info": "Native API & Plugin/Script Support"
+			"info": "Native API & Plugin\/Script Support"
 		},
 		"p2p": {
 			"support": -1,
 			"info": "Not P2P, but users can self-host the servers.",
 			"cites": [
-				"http://www.teamspeak.com/en/downloads.html#server"
+				"http:\/\/www.teamspeak.com\/en\/downloads.html#server"
 			]
 		}
 	}

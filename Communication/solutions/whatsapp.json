@@ -5,57 +5,67 @@
 			"support": 0,
 			"info": "Requires mobile to be online.",
 			"cites": [
-				"https://web.whatsapp.com/"
+				"https:\/\/web.whatsapp.com\/"
 			]
 		},
 		"desktop": {
 			"support": 0,
 			"info": "Windows & macOS. Requires installation and mobile to be online.",
 			"cites": [
-				"https://www.whatsapp.com/download/"
+				"https:\/\/www.whatsapp.com\/download\/"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android, iOS & Windows",
 			"cites": [
-				"https://www.whatsapp.com/download/",
-				"https://play.google.com/store/apps/details?id=com.whatsapp",
-				"https://itunes.apple.com/us/app/whatsapp-messenger/id310633997",
-				"https://www.microsoft.com/en-us/store/p/whatsapp/9wzdncrdfwbs/"
+				"https:\/\/www.whatsapp.com\/download\/",
+				"https:\/\/play.google.com\/store\/apps\/details?id=com.whatsapp",
+				"https:\/\/itunes.apple.com\/us\/app\/whatsapp-messenger\/id310633997",
+				"https:\/\/www.microsoft.com\/en-us\/store\/p\/whatsapp\/9wzdncrdfwbs\/"
 			]
 		},
 		"encryption": {
 			"support": 1,
 			"cites": [
-				"https://www.whatsapp.com/security/",
-				"https://signal.org/blog/whatsapp-complete/"
+				"https:\/\/www.whatsapp.com\/security\/",
+				"https:\/\/signal.org\/blog\/whatsapp-complete\/"
 			]
 		},
-		"notifications": {"support": 1},
-		"formatting": {"support": -1},
+		"notifications": {
+			"support": 1
+		},
+		"formatting": {
+			"support": -1
+		},
 		"emoji": {
 			"support": 0,
 			"info": "No Stickers."
 		},
-		"editing": {"support": -1},
+		"editing": {
+			"support": -1
+		},
 		"files": {
 			"support": 1,
 			"info": "Up to 100 MB.",
 			"cites": [
-				"https://faq.whatsapp.com/en/wp/23711096/?category=5245251"
+				"https:\/\/faq.whatsapp.com\/en\/wp\/23711096\/?category=5245251"
 			]
 		},
 		"previews": {
 			"support": -1,
 			"info": "Websites. Verification needed."
 		},
-		"voice": {"support": 1},
-		"video": {"support": 1},
+		"voice": {
+			"support": 1
+		},
+		"video": {
+			"support": 1
+		},
 		"api": {
 			"support": -1,
 			"cites": [
-				"http://mashable.com/2015/03/25/whatsapp-developers-api/"
+				"http:\/\/mashable.com\/2015\/03\/25\/whatsapp-developers-api\/"
 			]
 		}
 	}

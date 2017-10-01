@@ -5,56 +5,67 @@
 			"support": 0,
 			"info": "Calls require Plugin installation on non-Edge browsers.",
 			"cites": [
-				"https://www.skype.com/",
-				"https://web.skype.com/",
-				"https://support.skype.com/en/faq/FA12316/what-is-the-skype-web-plugin-and-how-do-i-install-it"
+				"https:\/\/www.skype.com\/",
+				"https:\/\/web.skype.com\/",
+				"https:\/\/support.skype.com\/en\/faq\/FA12316\/what-is-the-skype-web-plugin-and-how-do-i-install-it"
 			]
 		},
 		"desktop": {
 			"support": 0,
 			"info": "Windows, macOS & Linux. Installation required.",
 			"cites": [
-				"https://www.skype.com/en/download-skype/skype-for-computer/"
+				"https:\/\/www.skype.com\/en\/download-skype\/skype-for-computer\/"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android, iOS & Windows",
 			"cites": [
-				"https://www.skype.com/en/download-skype/skype-for-mobile/",
-				"https://play.google.com/store/apps/details?id=com.skype.raider",
-				"https://itunes.apple.com/app/skype/id304878510",
-				"https://www.microsoft.com/store/p/skype/9wzdncrfj364"
+				"https:\/\/www.skype.com\/en\/download-skype\/skype-for-mobile\/",
+				"https:\/\/play.google.com\/store\/apps\/details?id=com.skype.raider",
+				"https:\/\/itunes.apple.com\/app\/skype\/id304878510",
+				"https:\/\/www.microsoft.com\/store\/p\/skype\/9wzdncrfj364"
 			]
 		},
 		"overlay": {
 			"support": 0,
 			"info": "Only shows last 1 person to talk."
 		},
-		"hotkeys": {"support": 1},
+		"hotkeys": {
+			"support": 1
+		},
 		"permissions": {
 			"support": 0,
 			"info": "Limited support in cloud-based groups.",
 			"cites": [
-				"https://support.skype.com/en/faq/FA10042/what-cloud-based-chat-commands-and-roles-are-available-in-skype"
+				"https:\/\/support.skype.com\/en\/faq\/FA10042\/what-cloud-based-chat-commands-and-roles-are-available-in-skype"
 			]
 		},
-		"encryption": {"support": 0},
-		"notifications": {"support": 1},
+		"encryption": {
+			"support": 0
+		},
+		"notifications": {
+			"support": 1
+		},
 		"formatting": {
 			"support": 0,
 			"info": "Bold, Italic, Striked, Code",
 			"cites": [
-				"https://support.skype.com/en/faq/FA34696/how-do-i-format-text-in-skype-instant-messages"
+				"https:\/\/support.skype.com\/en\/faq\/FA34696\/how-do-i-format-text-in-skype-instant-messages"
 			]
 		},
-		"emoji": {"support": 1},
-		"editing": {"support": 1, "info": "Deleted messages are shown as 'This message has been removed.'"},
+		"emoji": {
+			"support": 1
+		},
+		"editing": {
+			"support": 1,
+			"info": "Deleted messages are shown as 'This message has been removed.'"
+		},
 		"files": {
 			"support": 1,
 			"info": "Up to 300 MB.",
 			"cites": [
-				"https://support.skype.com/en/faq/FA34644/skype-file-sharing-file-types-size-and-time-limits"
+				"https:\/\/support.skype.com\/en\/faq\/FA34644\/skype-file-sharing-file-types-size-and-time-limits"
 			]
 		},
 		"previews": {
@@ -64,13 +75,21 @@
 		"codec": {
 			"info": "SILK",
 			"cites": [
-				"https://wirevolution.com/2009/01/13/skypes-new-super-wideband-codec/"
+				"https:\/\/wirevolution.com\/2009\/01\/13\/skypes-new-super-wideband-codec\/"
 			]
 		},
-		"volumecontrol": {"support": -1},
-		"voice": {"support": 1},
-		"video": {"support": 1},
-		"screensharing": {"support": 1},
+		"volumecontrol": {
+			"support": -1
+		},
+		"voice": {
+			"support": 1
+		},
+		"video": {
+			"support": 1
+		},
+		"screensharing": {
+			"support": 1
+		},
 		"api": {
 			"support": 0,
 			"info": "Native API. No HTTP API despite Web Version."
@@ -79,10 +98,14 @@
 			"support": 0,
 			"info": "Calls only.",
 			"cites": [
-				"https://en.wikipedia.org/wiki/Skype_protocol#Peer-to-peer_architecture"
+				"https:\/\/en.wikipedia.org\/wiki\/Skype_protocol#Peer-to-peer_architecture"
 			]
 		},
-		"cpu_idle": {"info": "0% to 5% (1.3% - 5% when focused, 0% - 1.7% when not)"},
-		"cpu_talk": {"info": "2.9% to 6.4% (up to 13% when connecting)"}
+		"cpu_idle": {
+			"info": "0% to 5% (1.3% - 5% when focused, 0% - 1.7% when not)"
+		},
+		"cpu_talk": {
+			"info": "2.9% to 6.4% (up to 13% when connecting)"
+		}
 	}
 }

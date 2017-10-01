@@ -1,34 +1,42 @@
 {
 	"name": "Viber",
 	"compare_points": {
-		"web": {"support": -1},
+		"web": {
+			"support": -1
+		},
 		"desktop": {
 			"support": 1,
 			"info": "Windows, macOS & Linux",
 			"cites": [
-				"https://www.viber.com/products/windows/",
-				"https://www.viber.com/products/mac/",
-				"https://www.viber.com/products/linux/"
+				"https:\/\/www.viber.com\/products\/windows\/",
+				"https:\/\/www.viber.com\/products\/mac\/",
+				"https:\/\/www.viber.com\/products\/linux\/"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android & iOS",
 			"cites": [
-				"https://play.google.com/store/apps/details?id=com.viber.voip",
-				"https://itunes.apple.com/app/viber-free-phone-calls/id382617920"
+				"https:\/\/play.google.com\/store\/apps\/details?id=com.viber.voip",
+				"https:\/\/itunes.apple.com\/app\/viber-free-phone-calls\/id382617920"
 			]
 		},
 		"encryption": {
 			"support": 0,
 			"info": "Encryption method unknown.",
 			"cites": [
-				"https://support.viber.com/customer/portal/articles/2017401-viber-security-faq"
+				"https:\/\/support.viber.com\/customer\/portal\/articles\/2017401-viber-security-faq"
 			]
 		},
-		"notifications": {"support": 1},
-		"formatting": {"support": -1},
-		"emoji": {"support": 1},
+		"notifications": {
+			"support": 1
+		},
+		"formatting": {
+			"support": -1
+		},
+		"emoji": {
+			"support": 1
+		},
 		"editing": {
 			"support": 0,
 			"info": "No editing, only deleting."
@@ -36,8 +44,14 @@
 		"previews": {
 			"info": "Information needed."
 		},
-		"voice": {"support": 1},
-		"video": {"support": 1},
-		"api": {"support": -1}
+		"voice": {
+			"support": 1
+		},
+		"video": {
+			"support": 1
+		},
+		"api": {
+			"support": -1
+		}
 	}
 }

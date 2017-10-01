@@ -1,42 +1,48 @@
 {
 	"name": "Slack",
 	"compare_points": {
-		"web": {"support": 1},
+		"web": {
+			"support": 1
+		},
 		"desktop": {
 			"support": 0,
 			"info": "Windows, macOS & Linux. Installation required.",
 			"cites": [
-				"https://slack.com/downloads/windows",
-				"https://slack.com/downloads/osx",
-				"https://slack.com/downloads/linux"
+				"https:\/\/slack.com\/downloads\/windows",
+				"https:\/\/slack.com\/downloads\/osx",
+				"https:\/\/slack.com\/downloads\/linux"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android, iOS & Windows",
 			"cites": [
-				"https://play.google.com/store/apps/details?id=com.Slack",
-				"https://itunes.apple.com/app/slack-app/id618783545",
-				"https://www.microsoft.com/en-us/store/p/slack-beta/9nblggh1jj9h"
+				"https:\/\/play.google.com\/store\/apps\/details?id=com.Slack",
+				"https:\/\/itunes.apple.com\/app\/slack-app\/id618783545",
+				"https:\/\/www.microsoft.com\/en-us\/store\/p\/slack-beta\/9nblggh1jj9h"
 			]
 		},
 		"encryption": {
 			"support": 0,
 			"info": "Encryption method unknown.",
 			"cites": [
-				"https://slack.com/security",
-				"https://slack.com/security-practices"
+				"https:\/\/slack.com\/security",
+				"https:\/\/slack.com\/security-practices"
 			]
 		},
 		"notifications": {
 			"support": 0,
 			"info": "No custom sounds.",
 			"cites": [
-				"https://twitter.com/SlackHQ/status/608241805725958144"
+				"https:\/\/twitter.com\/SlackHQ\/status\/608241805725958144"
 			]
 		},
-		"formatting": {"support": -1},
-		"emoji": {"support": 0},
+		"formatting": {
+			"support": -1
+		},
+		"emoji": {
+			"support": 0
+		},
 		"editing": {
 			"support": 0,
 			"info": "No Editing."
@@ -44,7 +50,9 @@
 		"previews": {
 			"info": "Information needed."
 		},
-		"voice": {"support": 1},
+		"voice": {
+			"support": 1
+		},
 		"video": {
 			"support": -1,
 			"info": "No video calls, only video messages."
@@ -53,7 +61,7 @@
 			"support": 1,
 			"info": "HTTP API",
 			"cites": [
-				"https://api.slack.com/"
+				"https:\/\/api.slack.com\/"
 			]
 		}
 	}
