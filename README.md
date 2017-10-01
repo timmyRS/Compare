@@ -45,11 +45,14 @@ Just make sure to remove any artifacts like `en-GB` or `utm_source` from the URL
 
 #### In the Communication Branch
 
-If you have experience in either of these Communication Solutions, you may create the files as instructed.
+If you have experience in either of these Communication Solutions, you may add them to Compare.
 
-- **Signal** Copy the `messenger_template.json` to `solutions/signal.json`.
-- **Twitter DMs** Copy the `messenger_template.json` to `solutions/twitter.json`.
-- **Google Allo** Copy the `messenger_template.json` to `solutions/allo.json`.
+Solution                         | File Name      | Template
+-------------------------------- | -------------- | -----------------------
+Signal                           | signal.json    | messenger_template.json
+Twitter DMs                      | twitter.json   | messenger_template.json
+Google Allo                      | allo.json      | messenger_template.json
+[Cryptocat](https://crypto.cat/) | cryptocat.json | messenger_template.json
 
 ### Verification or Information needed
 
