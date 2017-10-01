@@ -1,6 +1,6 @@
 # Compare
 
-Compare features of different Solutions from all sorts of Branches.
+Compare features of different Solutions from all sorts of Branches. [[Compare now!](https://timmyrs.de/Compare/)]
 
 ## Contributing
 
