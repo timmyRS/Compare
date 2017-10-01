@@ -1,0 +1,72 @@
+{
+  "name": "Google Hangouts",
+  "compare_points": {
+    "web": {
+      "support": 1,
+      "cites": [
+        "https://hangouts.google.com/"
+      ]
+    },
+    "desktop": {
+      "support": -1
+    },
+    "mobile": {
+      "support": 1,
+      "info": "Android & iOS",
+      "cites": [
+        "https://play.google.com/store/apps/details?id=com.google.android.talk",
+        "https://itunes.apple.com/us/app/hangouts/id643496868"
+      ]
+    },
+    "encryption": {
+      "support": -1
+    },
+    "notifications": {
+      "support": -1
+    },
+    "formatting": {
+      "support": -1
+    },
+    "emoji": {
+      "support": 0,
+      "info": "No stickers."
+    },
+    "editing": {
+      "support": -1
+    },
+    "files": {
+      "support": -1
+    },
+    "previews": {
+      "support": -1
+    },
+    "voice": {
+      "support": 1
+    },
+    "p2p": {
+      "support": 0,
+      "info": "Whenever possible.",
+      "cites": [
+        "https://support.google.com/hangouts/answer/6334301"
+      ]
+    },
+    "screensharing": {
+      "support": 1
+    },
+    "volumecontrol": {
+      "support": -1
+    },
+    "permissions": {
+      "support": -1
+    },
+    "hotkeys": {
+      "support": -1
+    },
+    "overlay": {
+      "support": -1
+    },
+    "api": {
+      "support": -1
+    }
+  }
+}
