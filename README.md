@@ -1,6 +1,6 @@
 # Compare
 
-Compare features of different solutions from all sorts of branches.
+Compare features of different Solutions from all sorts of Branches.
 
 ## Contributing
 
