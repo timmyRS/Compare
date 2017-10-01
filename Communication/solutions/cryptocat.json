@@ -1,0 +1,62 @@
+{
+	"name": "Cryptocat",
+	"compare_points": {
+		"web": {
+			"support": -1
+		},
+		"desktop": {
+			"support": 0,
+			"info": "Windows, macOS & Linux. Installation required.",
+			"cites": [
+				"https://crypto.cat/"
+			]
+		},
+		"mobile": {
+			"support": -1
+		},
+		"hotkeys": {
+			"support": -1
+		},
+		"encryption": {
+			"support": 1,
+			"info": "Double Ratchet Algorithm"
+		},
+		"notifications": {
+			"support": -1
+		},
+		"formatting": {
+			"support": -1
+		},
+		"emoji": {
+			"support": 0,
+			"info": "Stickers only."
+		},
+		"editing": {
+			"support": -1
+		},
+		"files": {
+			"support": 1,
+			"info": "Up to 200 MB.",
+			"cites": [
+				"https://crypto.cat/news.html#\\33 \\.2\\.06"
+			]
+		},
+		"previews": {
+			"support": -1,
+			"info": "Links aren't even clickable."
+		},
+		"voice": {"support": -1},
+		"video": {"support": -1},
+		"screensharing": {"support": -1},
+		"cpu_idle": {
+			"info": "0% to 1%"
+		},
+		"p2p": {
+			"support": 0,
+			"info": "Powered by Relay Servers.",
+			"cites": [
+				"https://crypto.cat/mission.html"
+			]
+		}
+	}
+}

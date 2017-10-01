@@ -77,7 +77,7 @@
 		},
 		"p2p": {
 			"support": 0,
-			"info": "Calls only",
+			"info": "Calls only.",
 			"cites": [
 				"https://en.wikipedia.org/wiki/Skype_protocol#Peer-to-peer_architecture"
 			]

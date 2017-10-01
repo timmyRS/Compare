@@ -58,7 +58,6 @@ Solution                         | File Name      | Template
 Signal                           | signal.json    | messenger_template.json
 Twitter DMs                      | twitter.json   | messenger_template.json
 Google Allo                      | allo.json      | messenger_template.json
-[Cryptocat](https://crypto.cat/) | cryptocat.json | messenger_template.json
 
 ### Verification or Information needed
 
