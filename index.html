@@ -14,7 +14,7 @@
 			<br>
 			<h2>Let's Start</h2>
 			<p id="select-branch">We'll start off by selecting the branch you care about: <select class="custom-select"><option></option></select></p>
-			<p id="select-solution"><strong>HAL9000</strong> it is! Now we'll select the first solution to look at: <select class="custom-select"></select></p>
+			<p id="select-solution"><strong>HAL9000</strong> it is! <a href="#" role="button">[Change]</a> Now we'll select the first solution to look at: <select class="custom-select"></select></p>
 		</div>
 		<div style="padding:20px 40px">
 			<h2>Why trust the given data?</h2>
@@ -82,7 +82,9 @@
 			{
 				$("#select-branch").show();
 				$("#select-solution").hide();
-				location.hash = "";
+				location.hash = branch = "",
+				compare_points = [],
+				known_solutions = [];
 			}
 			else
 			{
@@ -129,28 +131,33 @@
 				}
 				if(branch != arr[0])
 				{
-					$("[value='"+arr[0]+"']").attr("selected", "selected").removeAttr("selected");
 					loadBranch(arr[0], function()
 					{
 						if(open_solutions.length > 0)
 						{
+							updateAddSolutionModal();
 							compare(open_solutions);
 						}
 						else
 						{
-							table.hide();
+							table.html("");
 						}
 					});
 				}
-				else if(open_solutions.lenght > 0)
+				else if(open_solutions.length > 0)
 				{
+					updateAddSolutionModal();
 					compare(open_solutions);
 				}
 				else
 				{
-					table.hide();
+					table.html("");
 				}
 			}
+		}
+
+		function updateAddSolutionModal()
+		{
 			$("#addSolutionModal .modal-body").html("<p></p>");
 			for(i in known_solutions)
 			{

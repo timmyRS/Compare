@@ -20,9 +20,11 @@
 			"support": 0,
 			"info": "No Editing."
 		},
+		"files": {"support": -1},
+		"previews": {"support": -1},
 		"voice": {"support": 1},
 		"video": {
-			"support": -1,
+			"support": 0,
 			"info": "No video calls, only video messages."
 		},
 		"api": {"support": -1}
