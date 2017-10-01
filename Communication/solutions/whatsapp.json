@@ -34,7 +34,10 @@
 		},
 		"notifications": {"support": 1},
 		"formatting": {"support": -1},
-		"emoji": {"support": 1},
+		"emoji": {
+			"support": 0,
+			"info": "No Stickers."
+		},
 		"editing": {"support": -1},
 		"files": {
 			"support": 1,
