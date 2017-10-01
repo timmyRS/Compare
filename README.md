@@ -6,11 +6,17 @@ Compare features of different solutions from all sorts of branches.
 
 ### Introduction
 
+#### Definitions
+
+- A **Branch** is a collection of Solutions which have a shared goal, e.g. Communication.
+- A **Solution** is anything which achieves the goal of the Branch.
+- **Compare Point**s are different per branch and defined in the compare_points.json of the Branch folder. Some Compare Points don't apply to all Solutions in a Branch, so not all Compare Points are defined for all Solutions. For example: A messenger like WhatsApp might not need Hotkeys, whilst other Solutions in the Communication Branch need them.
+
 #### `support`
 
 Most Compare Points are *supportable* (e.g. they have the `support` value). The `support` value can be `-1`, `0` and `1`, meaning "no support", "partial support" and "full support", respectively.
 
-It is highly recommended you always have the [compare_points.json](https://github.com/timmyrs/Compare/blob/master/Communication/compare_points.json) open, as it contans the `desc` values, which have "should"-statements in them.
+It is highly recommended you always have the compare_points.json of your branch open, as it contans the `desc` values, which have "should"-statements in them.
 
 - If the statement does not apply, the `support` value should be `-1`.
 - If the statement partially applies, the `support` value should be  `0`.

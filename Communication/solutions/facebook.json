@@ -39,6 +39,10 @@
 				"https://www.facebook.com/help/messenger-app/242107552657620"
 			]
 		},
+		"previews": {
+			"support": -1,
+			"info": "Websites. Verification needed."
+		},
 		"voice": {
 			"support": 1,
 			"cites": [

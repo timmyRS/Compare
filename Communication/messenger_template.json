@@ -13,7 +13,7 @@
 		"encryption": {
 			"support": 0
 		},
-		"notifications": {"info": "Information needed."},
+		"notifications": {"support": 0},
 		"formatting": {"support": -1},
 		"emoji": {"support": 0},
 		"editing": {

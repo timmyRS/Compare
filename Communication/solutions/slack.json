@@ -41,6 +41,9 @@
 			"support": 0,
 			"info": "No Editing."
 		},
+		"previews": {
+			"info": "Information needed."
+		},
 		"voice": {"support": 1},
 		"video": {
 			"support": -1,

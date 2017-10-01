@@ -33,6 +33,9 @@
 			"support": 0,
 			"info": "No editing, only deleting."
 		},
+		"previews": {
+			"info": "Information needed."
+		},
 		"voice": {"support": 1},
 		"video": {"support": 1},
 		"api": {"support": -1}
