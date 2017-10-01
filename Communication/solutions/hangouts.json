@@ -4,7 +4,7 @@
 		"web": {
 			"support": 1,
 			"cites": [
-				"https:\/\/hangouts.google.com\/"
+				"https://hangouts.google.com/"
 			]
 		},
 		"desktop": {
@@ -14,8 +14,8 @@
 			"support": 1,
 			"info": "Android & iOS",
 			"cites": [
-				"https:\/\/play.google.com\/store\/apps\/details?id=com.google.android.talk",
-				"https:\/\/itunes.apple.com\/us\/app\/hangouts\/id643496868"
+				"https://play.google.com/store/apps/details?id=com.google.android.talk",
+				"https://itunes.apple.com/us/app/hangouts/id643496868"
 			]
 		},
 		"permissions": {
@@ -48,7 +48,7 @@
 		"codec": {
 			"info": "WebRTC",
 			"cites": [
-				"https:\/\/gigaom.com\/2013\/08\/28\/hangouts-hd-vp8-webrtc\/"
+				"https://gigaom.com/2013/08/28/hangouts-hd-vp8-webrtc/"
 			]
 		},
 		"volumecontrol": {
@@ -61,27 +61,27 @@
 			"support": 1,
 			"info": "Using VP8 codec.",
 			"cites": [
-				"https:\/\/gigaom.com\/2013\/08\/28\/hangouts-hd-vp8-webrtc\/"
+				"https://gigaom.com/2013/08/28/hangouts-hd-vp8-webrtc/"
 			]
 		},
 		"screensharing": {
 			"support": 1,
 			"cites": [
-				"https:\/\/lifehacker.com\/5842191\/google%252B-hangouts-adds-screen-sharing-google-docs-collaboration-and-more"
+				"https://lifehacker.com/5842191/google%252B-hangouts-adds-screen-sharing-google-docs-collaboration-and-more"
 			]
 		},
 		"api": {
 			"support": 1,
 			"info": "HTTP API",
 			"cites": [
-				"https:\/\/developers.google.com\/+\/hangouts\/"
+				"https://developers.google.com/+/hangouts/"
 			]
 		},
 		"p2p": {
 			"support": 0,
 			"info": "Whenever possible.",
 			"cites": [
-				"https:\/\/support.google.com\/hangouts\/answer\/6334301"
+				"https://support.google.com/hangouts/answer/6334301"
 			]
 		}
 	}

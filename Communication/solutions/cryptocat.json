@@ -8,7 +8,7 @@
 			"support": 0,
 			"info": "Windows, macOS & Linux. Installation required.",
 			"cites": [
-				"https:\/\/crypto.cat\/"
+				"https://crypto.cat/"
 			]
 		},
 		"mobile": {
@@ -38,7 +38,7 @@
 			"support": 1,
 			"info": "Up to 200 MB.",
 			"cites": [
-				"https:\/\/crypto.cat\/news.html#\\33 \\.2\\.06"
+				"https://crypto.cat/news.html#\\33 \\.2\\.06"
 			]
 		},
 		"previews": {
@@ -61,7 +61,7 @@
 			"support": 0,
 			"info": "Powered by Relay Servers.",
 			"cites": [
-				"https:\/\/crypto.cat\/mission.html"
+				"https://crypto.cat/mission.html"
 			]
 		}
 	}

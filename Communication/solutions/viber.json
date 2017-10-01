@@ -8,24 +8,24 @@
 			"support": 1,
 			"info": "Windows, macOS & Linux",
 			"cites": [
-				"https:\/\/www.viber.com\/products\/windows\/",
-				"https:\/\/www.viber.com\/products\/mac\/",
-				"https:\/\/www.viber.com\/products\/linux\/"
+				"https://www.viber.com/products/windows/",
+				"https://www.viber.com/products/mac/",
+				"https://www.viber.com/products/linux/"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android & iOS",
 			"cites": [
-				"https:\/\/play.google.com\/store\/apps\/details?id=com.viber.voip",
-				"https:\/\/itunes.apple.com\/app\/viber-free-phone-calls\/id382617920"
+				"https://play.google.com/store/apps/details?id=com.viber.voip",
+				"https://itunes.apple.com/app/viber-free-phone-calls/id382617920"
 			]
 		},
 		"encryption": {
 			"support": 0,
 			"info": "Encryption method unknown.",
 			"cites": [
-				"https:\/\/support.viber.com\/customer\/portal\/articles\/2017401-viber-security-faq"
+				"https://support.viber.com/customer/portal/articles/2017401-viber-security-faq"
 			]
 		},
 		"notifications": {

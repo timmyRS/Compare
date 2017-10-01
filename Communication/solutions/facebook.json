@@ -4,7 +4,7 @@
 		"web": {
 			"support": 1,
 			"cites": [
-				"https:\/\/www.messenger.com\/"
+				"https://www.messenger.com/"
 			]
 		},
 		"desktop": {
@@ -14,16 +14,16 @@
 			"support": 1,
 			"info": "Android, iOS & Windows",
 			"cites": [
-				"https:\/\/www.messenger.com\/",
-				"https:\/\/play.google.com\/store\/apps\/details?id=com.facebook.orca",
-				"https:\/\/itunes.apple.com\/us\/app\/messenger\/id454638411",
-				"https:\/\/www.microsoft.com\/store\/p\/messenger\/9wzdncrf0083"
+				"https://www.messenger.com/",
+				"https://play.google.com/store/apps/details?id=com.facebook.orca",
+				"https://itunes.apple.com/us/app/messenger/id454638411",
+				"https://www.microsoft.com/store/p/messenger/9wzdncrf0083"
 			]
 		},
 		"encryption": {
 			"support": -1,
 			"cites": [
-				"https:\/\/www.facebook.com\/help\/community\/question\/?id=1430888193894628"
+				"https://www.facebook.com/help/community/question/?id=1430888193894628"
 			]
 		},
 		"notifications": {
@@ -39,8 +39,8 @@
 			"support": 0,
 			"info": "No Editing.",
 			"cites": [
-				"https:\/\/www.facebook.com\/help\/community\/question\/?id=10206969961940416",
-				"https:\/\/www.facebook.com\/help\/messenger-app\/242107552657620"
+				"https://www.facebook.com/help/community/question/?id=10206969961940416",
+				"https://www.facebook.com/help/messenger-app/242107552657620"
 			]
 		},
 		"previews": {
@@ -50,19 +50,19 @@
 		"voice": {
 			"support": 1,
 			"cites": [
-				"https:\/\/www.facebook.com\/help\/messenger-app\/1106443359454049"
+				"https://www.facebook.com/help/messenger-app/1106443359454049"
 			]
 		},
 		"video": {
 			"support": 1,
 			"cites": [
-				"https:\/\/www.facebook.com\/help\/messenger-app\/1414800065460231"
+				"https://www.facebook.com/help/messenger-app/1414800065460231"
 			]
 		},
 		"api": {
 			"support": 1,
 			"cites": [
-				"https:\/\/developers.facebook.com\/docs\/messenger-platform"
+				"https://developers.facebook.com/docs/messenger-platform"
 			]
 		}
 	}

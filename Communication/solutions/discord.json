@@ -4,76 +4,76 @@
 		"web": {
 			"support": 1,
 			"cites": [
-				"https:\/\/discordapp.com\/"
+				"https://discordapp.com/"
 			]
 		},
 		"desktop": {
 			"support": 0,
 			"info": "Windows, macOS & Linux. Installation required.",
 			"cites": [
-				"https:\/\/discordapp.com\/download"
+				"https://discordapp.com/download"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android & iOS",
 			"cites": [
-				"https:\/\/discordapp.com\/download",
-				"https:\/\/play.google.com\/store\/apps\/details?id=com.discord",
-				"https:\/\/itunes.apple.com\/us\/app\/discord-chat-for-games\/id985746746"
+				"https://discordapp.com/download",
+				"https://play.google.com/store/apps/details?id=com.discord",
+				"https://itunes.apple.com/us/app/discord-chat-for-games/id985746746"
 			]
 		},
 		"overlay": {
 			"support": 0,
 			"info": "Only injects itself into games.",
 			"cites": [
-				"https:\/\/support.discordapp.com\/hc\/en-us\/articles\/217659737-Games-Overlay-101"
+				"https://support.discordapp.com/hc/en-us/articles/217659737-Games-Overlay-101"
 			]
 		},
 		"hotkeys": {
 			"support": 1,
 			"cites": [
-				"https:\/\/support.discordapp.com\/hc\/en-us\/articles\/217083547-How-do-I-add-different-Keybinds-"
+				"https://support.discordapp.com/hc/en-us/articles/217083547-How-do-I-add-different-Keybinds-"
 			]
 		},
 		"permissions": {
 			"support": 1,
 			"cites": [
-				"https:\/\/support.discordapp.com\/hc\/en-us\/articles\/214836687-Role-Management-101"
+				"https://support.discordapp.com/hc/en-us/articles/214836687-Role-Management-101"
 			]
 		},
 		"encryption": {
 			"support": 0,
 			"info": "Not stored encrypted.",
 			"cites": [
-				"https:\/\/www.reddit.com\/r\/discordapp\/comments\/43z4yh\/open_source_protocol_encryption_privacy\/cznvmxl\/"
+				"https://www.reddit.com/r/discordapp/comments/43z4yh/open_source_protocol_encryption_privacy/cznvmxl/"
 			]
 		},
 		"notifications": {
 			"support": 0,
 			"info": "Sound only changable by changing the files.",
 			"cites": [
-				"https:\/\/www.reddit.com\/r\/discordapp\/comments\/3st7u3\/custom_notification_sounds\/cx0g3hq\/"
+				"https://www.reddit.com/r/discordapp/comments/3st7u3/custom_notification_sounds/cx0g3hq/"
 			]
 		},
 		"codec": {
 			"info": "Opus",
 			"cites": [
-				"https:\/\/discordapp.com\/features"
+				"https://discordapp.com/features"
 			]
 		},
 		"volumecontrol": {
 			"support": 0,
 			"info": "Manual volume control",
 			"cites": [
-				"https:\/\/support.discordapp.com\/hc\/en-us\/articles\/205287897-How-do-I-adjust-the-volume-level-of-individual-users-in-my-server-"
+				"https://support.discordapp.com/hc/en-us/articles/205287897-How-do-I-adjust-the-volume-level-of-individual-users-in-my-server-"
 			]
 		},
 		"formatting": {
 			"support": 0,
 			"info": "Partial Markdown",
 			"cites": [
-				"https:\/\/support.discordapp.com\/hc\/en-us\/articles\/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-"
+				"https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-"
 			]
 		},
 		"emoji": {
@@ -88,7 +88,7 @@
 			"support": 0,
 			"info": "Up to 8 MB or 50 MB for Nitro users.",
 			"cites": [
-				"https:\/\/discordapp.com\/nitro"
+				"https://discordapp.com/nitro"
 			]
 		},
 		"previews": {
@@ -102,29 +102,29 @@
 			"support": 0,
 			"info": "Available to limited number of people.",
 			"cites": [
-				"https:\/\/blog.discordapp.com\/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31"
+				"https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31"
 			]
 		},
 		"screensharing": {
 			"support": 0,
 			"info": "Available to limited number of people.",
 			"cites": [
-				"https:\/\/blog.discordapp.com\/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31"
+				"https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31"
 			]
 		},
 		"api": {
 			"support": 1,
 			"info": "HTTP API & Websocket API",
 			"cites": [
-				"https:\/\/discordapp.com\/developers\/docs\/intro"
+				"https://discordapp.com/developers/docs/intro"
 			]
 		},
 		"p2p": {
 			"support": -1,
 			"cites": [
-				"https:\/\/twitter.com\/discordapp\/status\/853316428858052609",
-				"https:\/\/twitter.com\/discordapp\/status\/852658812117020672",
-				"https:\/\/twitter.com\/discordapp\/status\/833478631754170368"
+				"https://twitter.com/discordapp/status/853316428858052609",
+				"https://twitter.com/discordapp/status/852658812117020672",
+				"https://twitter.com/discordapp/status/833478631754170368"
 			]
 		}
 	}

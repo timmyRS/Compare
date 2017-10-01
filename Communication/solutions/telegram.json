@@ -4,34 +4,34 @@
 		"web": {
 			"support": 1,
 			"cites": [
-				"https:\/\/www.telegram.org\/",
-				"https:\/\/web.telegram.org\/"
+				"https://www.telegram.org/",
+				"https://web.telegram.org/"
 			]
 		},
 		"desktop": {
 			"support": 1,
 			"info": "Windows, macOS & Linux",
 			"cites": [
-				"https:\/\/www.telegram.org\/",
-				"https:\/\/desktop.telegram.org\/",
-				"https:\/\/macos.telegram.org\/"
+				"https://www.telegram.org/",
+				"https://desktop.telegram.org/",
+				"https://macos.telegram.org/"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android, iOS & Windows",
 			"cites": [
-				"https:\/\/www.telegram.org\/",
-				"https:\/\/play.google.com\/store\/apps\/details?id=org.telegram.messenger",
-				"https:\/\/itunes.apple.com\/app\/telegram-messenger\/id686449807",
-				"https:\/\/www.microsoft.com\/de-de\/store\/p\/telegram-messenger\/9wzdncrdzhs0"
+				"https://www.telegram.org/",
+				"https://play.google.com/store/apps/details?id=org.telegram.messenger",
+				"https://itunes.apple.com/app/telegram-messenger/id686449807",
+				"https://www.microsoft.com/de-de/store/p/telegram-messenger/9wzdncrdzhs0"
 			]
 		},
 		"permissions": {
 			"support": 0,
 			"info": "Predefined roles with predefined permissions.",
 			"cites": [
-				"https:\/\/telegram.org\/faq#q-can-i-assign-administrators"
+				"https://telegram.org/faq#q-can-i-assign-administrators"
 			]
 		},
 		"notifications": {
@@ -41,7 +41,7 @@
 			"support": 0,
 			"info": "Not always stored encrypted.",
 			"cites": [
-				"https:\/\/core.telegram.org\/mtproto"
+				"https://core.telegram.org/mtproto"
 			]
 		},
 		"formatting": {
@@ -58,7 +58,7 @@
 			"support": 1,
 			"info": "Up to 1.5 GB",
 			"cites": [
-				"https:\/\/www.telegram.org\/blog\/shared-files"
+				"https://www.telegram.org/blog/shared-files"
 			]
 		},
 		"previews": {
@@ -68,13 +68,13 @@
 		"codec": {
 			"info": "Opus",
 			"cites": [
-				"https:\/\/www.reddit.com\/r\/Telegram\/comments\/68r9dj\/opus_codec\/"
+				"https://www.reddit.com/r/Telegram/comments/68r9dj/opus_codec/"
 			]
 		},
 		"voice": {
 			"support": 1,
 			"cites": [
-				"https:\/\/telegram.org\/faq#q-can-i-make-calls-via-telegram"
+				"https://telegram.org/faq#q-can-i-make-calls-via-telegram"
 			]
 		},
 		"video": {
@@ -87,7 +87,7 @@
 		"api": {
 			"support": 1,
 			"cites": [
-				"https:\/\/core.telegram.org\/api"
+				"https://core.telegram.org/api"
 			]
 		}
 	}

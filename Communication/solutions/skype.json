@@ -5,26 +5,26 @@
 			"support": 0,
 			"info": "Calls require Plugin installation on non-Edge browsers.",
 			"cites": [
-				"https:\/\/www.skype.com\/",
-				"https:\/\/web.skype.com\/",
-				"https:\/\/support.skype.com\/en\/faq\/FA12316\/what-is-the-skype-web-plugin-and-how-do-i-install-it"
+				"https://www.skype.com/",
+				"https://web.skype.com/",
+				"https://support.skype.com/en/faq/FA12316/what-is-the-skype-web-plugin-and-how-do-i-install-it"
 			]
 		},
 		"desktop": {
 			"support": 0,
 			"info": "Windows, macOS & Linux. Installation required.",
 			"cites": [
-				"https:\/\/www.skype.com\/en\/download-skype\/skype-for-computer\/"
+				"https://www.skype.com/en/download-skype/skype-for-computer/"
 			]
 		},
 		"mobile": {
 			"support": 1,
 			"info": "Android, iOS & Windows",
 			"cites": [
-				"https:\/\/www.skype.com\/en\/download-skype\/skype-for-mobile\/",
-				"https:\/\/play.google.com\/store\/apps\/details?id=com.skype.raider",
-				"https:\/\/itunes.apple.com\/app\/skype\/id304878510",
-				"https:\/\/www.microsoft.com\/store\/p\/skype\/9wzdncrfj364"
+				"https://www.skype.com/en/download-skype/skype-for-mobile/",
+				"https://play.google.com/store/apps/details?id=com.skype.raider",
+				"https://itunes.apple.com/app/skype/id304878510",
+				"https://www.microsoft.com/store/p/skype/9wzdncrfj364"
 			]
 		},
 		"overlay": {
@@ -38,7 +38,7 @@
 			"support": 0,
 			"info": "Limited support in cloud-based groups.",
 			"cites": [
-				"https:\/\/support.skype.com\/en\/faq\/FA10042\/what-cloud-based-chat-commands-and-roles-are-available-in-skype"
+				"https://support.skype.com/en/faq/FA10042/what-cloud-based-chat-commands-and-roles-are-available-in-skype"
 			]
 		},
 		"encryption": {
@@ -51,7 +51,7 @@
 			"support": 0,
 			"info": "Bold, Italic, Striked, Code",
 			"cites": [
-				"https:\/\/support.skype.com\/en\/faq\/FA34696\/how-do-i-format-text-in-skype-instant-messages"
+				"https://support.skype.com/en/faq/FA34696/how-do-i-format-text-in-skype-instant-messages"
 			]
 		},
 		"emoji": {
@@ -65,7 +65,7 @@
 			"support": 1,
 			"info": "Up to 300 MB.",
 			"cites": [
-				"https:\/\/support.skype.com\/en\/faq\/FA34644\/skype-file-sharing-file-types-size-and-time-limits"
+				"https://support.skype.com/en/faq/FA34644/skype-file-sharing-file-types-size-and-time-limits"
 			]
 		},
 		"previews": {
@@ -75,7 +75,7 @@
 		"codec": {
 			"info": "SILK",
 			"cites": [
-				"https:\/\/wirevolution.com\/2009\/01\/13\/skypes-new-super-wideband-codec\/"
+				"https://wirevolution.com/2009/01/13/skypes-new-super-wideband-codec/"
 			]
 		},
 		"volumecontrol": {
@@ -98,7 +98,7 @@
 			"support": 0,
 			"info": "Calls only.",
 			"cites": [
-				"https:\/\/en.wikipedia.org\/wiki\/Skype_protocol#Peer-to-peer_architecture"
+				"https://en.wikipedia.org/wiki/Skype_protocol#Peer-to-peer_architecture"
 			]
 		},
 		"cpu_idle": {
