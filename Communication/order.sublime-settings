@@ -1,0 +1,36 @@
+// Q: Why is this file called .sublime-settings?
+// A: Because Sublime Text then treats //-lines as comments and that makes it look nicer.
+// Q: Does this file have any purpose?
+// A: It is supposed to help everyone stay consistent with the order of compare points.
+
+// Platforms
+Web Version
+Desktop Versions
+Mobile Versions
+// Features
+Overlay (HUD)
+Hotkeys
+Permission System
+Encryption
+Custom Notifications
+// Chat
+Formatting
+Emoji
+Edit Messages
+File Uploads
+Previews
+// Calls
+Audio Codec
+Automatic Volume Control
+Voice
+Video
+Screen Sharing
+// Measurements
+CPU Usage when Idle
+CPU Usage when in Talk
+// Technical
+Peer-to-Peer
+API
+// Summary
+Relative Points
+Absolute Points

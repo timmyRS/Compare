@@ -1,0 +1,80 @@
+{
+	"name": "Mumble",
+	"compare_points": {
+		"desktop": {
+			"support": 1,
+			"info": "Windows, macOS & Linux",
+			"cites": [
+				"https://wiki.mumble.info/wiki/Main_Page",
+				"https://wiki.mumble.info/wiki/Mumble_Portable"
+			]
+		},
+		"mobile": {
+			"support": 1,
+			"info": "Android (3rd party app) & iOS",
+			"cites": [
+				"https://wiki.mumble.info/wiki/Main_Page"
+			]
+		},
+		"overlay": {
+			"support": 0,
+			"info": "Only injects itself into games.",
+			"cites": [
+				"https://wiki.mumble.info/wiki/Overlay"
+			]
+		},
+		"hotkeys": {"support": 1},
+		"permissions": {
+			"support": 1,
+			"cites": [
+				"https://wiki.mumble.info/wiki/ACL_and_Groups"
+			]
+		},
+		"encryption": {
+			"support": 1,
+			"info": "TLS and OCB-AES128"
+		},
+		"notifications": {
+			"support": 1,
+			"cites": [
+				"https://wiki.mumble.info/wiki/FAQ/English#I_see_I_can_use_sound_notifications.2C_what_formats_are_supported.3F"
+			]
+		},
+		"formatting": {
+			"support": 1,
+			"info": "HTML"
+		},
+		"emoji": {"support": -1},
+		"editing": {"support": -1},
+		"files": {"support": -1},
+		"previews": {"support": -1},
+		"codec": {
+			"info": "Opus",
+			"cites": [
+				"https://wiki.mumble.info/wiki/Features#Codecs"
+			]
+		},
+		"volumecontrol": {
+			"support": 1,
+			"cites": [
+				"https://wiki.mumble.info/wiki/FAQ/English#Can_I_change_to_volume_of_a_specific_user.3F"
+			]
+		},
+		"voice": {"support": 1},
+		"video": {"support": -1},
+		"p2p": {
+			"support": -1,
+			"info": "Not P2P, but users can self-host the servers.",
+			"cites": [
+				"https://wiki.mumble.info/wiki/FAQ/English#What_is_Murmur.3F"
+			]
+		},
+		"api": {
+			"support": 0,
+			"info": "Native API",
+			"cites": [
+				"https://wiki.mumble.info/wiki/Pluginguide"
+			]
+		}
+	}
+}

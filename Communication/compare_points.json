@@ -1,0 +1,98 @@
+{
+	"web": {
+		"name": "Web Version",
+		"desc": "Should be usable in browsers."
+	},
+	"desktop": {
+		"name": "Desktop Versions",
+		"desc": "There should be a portable and installable version running on Windows, macOS and linux devices."
+	},
+	"mobile": {
+		"name": "Mobile Versions",
+		"desc": "Should be runnable on Android, IOS and optionally Windows mobiles."
+	},
+	"overlay": {
+		"name": "Overlay (HUD)",
+		"desc": "Should have an overlay showing everyone currently talking."
+	},
+	"hotkeys": {
+		"name": "Hotkeys",
+		"desc": "You should be able to set global hotkeys for (un)muting yourself, etc."
+	},
+	"permissions": {
+		"name": "Permission System",
+		"desc": "Users should be able to restrict other users from doing stuff given the right permission."
+	},
+	"encryption": {
+		"name": "Encryption",
+		"desc": "All communication should be encrypted."
+	},
+	"notifications": {
+		"name": "Custom Notifications",
+		"desc": "You should be able to disable notifications and set custom notification sounds."
+	},
+	"formatting": {
+		"name": "Formatting",
+		"desc": "You should be able to use the whole of Markdown."
+	},
+	"emoji": {
+		"name": "Emoji",
+		"desc": "You should be able to select, send and see normal Emoji as well as bigger and more expressive Emoji (\"Stickers\") reguardless what device you are on."
+	},
+	"editing": {
+		"name": "Edit Messages",
+		"desc": "You should be able to edit and delete your messages."
+	},
+	"files": {
+		"name": "File Uploads",
+		"desc": "You should be able to upload files of at least 100 MB without external sites or payments."
+	},
+	"previews": {
+		"name": "Media Previews",
+		"desc": "External Content like Websites, GIFs and optionally Videos and Audios should be viewable without leaving."
+	},
+	"codec": {
+		"name": "Audio Codec",
+		"desc": "The codec used to encode audio."
+	},
+	"volumecontrol": {
+		"name": "Automatic Volume Control",
+		"desc": "The volume of individuals should be automatically adjusted and you should be able to manually mute individuals."
+	},
+	"voice": {
+		"name": "Voice",
+		"desc": "You should be able to talk to your mates using your voice."
+	},
+	"video": {
+		"name": "Video",
+		"desc": "You should be able to show your face to your mates."
+	},
+	"screensharing": {
+		"name": "Screen Sharing",
+		"desc": "You should be able to share your screen and individual windows on your desktop."
+	},
+	"cpu_idle": {
+		"name": "CPU Usage when Idle",
+		"desc": "Tested on the same shitty laptop."
+	},
+	"cpu_talk": {
+		"name": "CPU Usage when in Talk",
+		"desc": "Tested on the same shitty laptop."
+	},
+	"p2p": {
+		"name": "Peer-to-Peer",
+		"desc": "All communication should happen between the peers directly."
+	},
+	"api": {
+		"name": "API",
+		"desc": "You should be able to access and modify all data without using any graphical interface."
+	},
+	"points": {
+		"name": "Relative Points",
+		"desc": "All supported and partially supported features in this table added up where partial support only gives half a point."
+	},
+	"points_absolute": {
+		"name": "Abolsute Points",
+		"desc": "All supported and partially supported features of this solution added up where partial support only gives half a point."
+	}
+}
