@@ -81,8 +81,7 @@
 			"info": "No Stickers."
 		},
 		"editing": {
-			"support": 1,
-			"info": "Deleting messages sometimes leaves the receiver with a ghost notification."
+			"support": 1
 		},
 		"files": {
 			"support": 0,
@@ -99,17 +98,17 @@
 			"support": 1
 		},
 		"video": {
-			"support": 0,
-			"info": "Available to limited number of people.",
+			"support": 1,
 			"cites": [
-				"https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31"
+				"https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31",
+				"https://blog.discordapp.com/5-10-2017-change-log-80f10c621c64"
 			]
 		},
 		"screensharing": {
-			"support": 0,
-			"info": "Available to limited number of people.",
+			"support": 1,
 			"cites": [
-				"https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31"
+				"https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31",
+				"https://blog.discordapp.com/5-10-2017-change-log-80f10c621c64"
 			]
 		},
 		"api": {
