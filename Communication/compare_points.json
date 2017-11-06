@@ -92,7 +92,7 @@
 		"desc": "All supported and partially supported features in this table added up where partial support only gives half a point."
 	},
 	"points_absolute": {
-		"name": "Abolsute Points",
+		"name": "Absolute Points",
 		"desc": "All supported and partially supported features of this solution added up where partial support only gives half a point."
 	}
 }
