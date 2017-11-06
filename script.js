@@ -203,7 +203,7 @@ function compare(_solutions)
 	thead_html = "<tr><th style='width:58px'><a href='#' onclick='event.preventDefault()' data-toggle='modal' data-target='#addSolutionModal' data-tooltip='tooltip' data-placement='right' title='Add Solution'><i class='fa fa-plus'></i></a>&nbsp;<a href='#"+branch+"' data-tooltip='tooltip' data-placement='right' title='Remove All Solutions'><i class='fa fa-ban'></i></a></th>";
 	for(i in solutions)
 	{
-		thead_html += "<th><span>" + solutions[i].name + "</span> <a href='#' onclick='event.preventDefault();removeSolution(" + i + ")' data-tooltip='tooltip' data-placement='right' title='Remove Solution'><i class='fa fa-times'></i></a></th>";
+		thead_html += "<th><span>" + solutions[i].name + "</span> <a href='#' onclick=\"event.preventDefault();removeSolution('" + i + "')\" data-tooltip='tooltip' data-placement='right' title='Remove Solution'><i class='fa fa-times'></i></a></th>";
 		solutions[i].compare_points.points = {"info": 0};
 		solutions[i].compare_points.points_absolute = {"info": 0};
 		for(compare_point in solutions[i].compare_points)
