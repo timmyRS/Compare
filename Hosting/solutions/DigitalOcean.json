@@ -31,6 +31,9 @@
 		"tb_price": {
 			"info": "$100 / TB SSD",
 			"support": 1
-		}
+		},
+		"locations": {
+			"info": "8 Locations"
+		}	
 	}
 }
