@@ -9,10 +9,10 @@
 			]		
 		},
 		"virtulization": {
-			"info": "OpenVZ",
+			"info": "Unknown"
 		},
 		"port_speed": {
-			"info": "100Mbps-1Gbps",
+			"info": "100Mbps-1Gbps"
 		},
 		"gb_price": {
 			"info": "€1.49 / GB",
