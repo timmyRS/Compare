@@ -6,10 +6,10 @@
 			"support": 1
 		},
 		"virtulization": {
-			"info": "KVM",
+			"info": "KVM"
 		},
 		"port_speed": {
-			"info": "10Gbps",
+			"info": "10Gbps"
 		},
 		"gb_price": {
 			"info": "$5 / GB",
