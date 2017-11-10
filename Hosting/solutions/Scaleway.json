@@ -27,6 +27,9 @@
 		"tb_price": {
 			"info": "€20 / TB",
 			"support": 1
+		},
+		"locations": {
+			"info": "2 Locations"
 		}
 	}
 }

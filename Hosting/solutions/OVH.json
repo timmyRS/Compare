@@ -24,6 +24,9 @@
 		"tb_price": {
 			"info": "Up to 500GB only.",
 			"support": 0
+		},
+		"locations": {
+			"info": "5 Locations"
 		}
 	}
 }
