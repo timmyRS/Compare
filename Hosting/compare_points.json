@@ -18,5 +18,9 @@
 	"support": {
 		"name": "Support",
 		"desc": "Does the host offer support?"
+	},
+	"tb_price": {
+		"name": "Price per TB of storage",
+		"desc": "The price per TB of storage in euros."
 	}
 }
