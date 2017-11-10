@@ -1,9 +1,36 @@
 {
-	"name": "DigitalOcean",
+	"name": "Digital Ocean",
 	"compare_points": {
 		"ipsix": {
-			"support": 0,
-			"info": "16 IPv6. Not by default."
+			"support": 1,
+			"info": "Optional 16 IPv6"
+		},
+		"virtulization": {
+			"info": "KVM",
+			"cites": [
+				"https://www.digitalocean.com/community/questions/what-kind-of-virtualization-do-you-use"
+			]
+		},
+		"port_speed": {
+			"info": "1Gbps",
+			"cites": [
+				"https://www.digitalocean.com/community/questions/upload-and-download-speed-of-a-droplet",
+				"https://www.digitalocean.com/community/questions/how-fast-is-the-internet-connection-to-my-droplet"
+			]
+		},
+		"gb_price": {
+			"info": "$10 / GB",
+			"cites": [
+				"https://www.digitalocean.com/pricing/#droplet"
+			]
+		},
+		"support": {
+			"info": "Offers support",
+			"support": 1
+		},
+		"tb_price": {
+			"info": "$100 / TB SSD",
+			"support": 1
 		}
 	}
 }
