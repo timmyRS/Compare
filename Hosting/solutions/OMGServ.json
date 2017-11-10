@@ -24,6 +24,8 @@
 		"tb_price": {
 			"info": "Not offered",
 			"support": -1
-		}
+		},
+		"locations": {
+			"info": "1 Location"
 	}
 }
