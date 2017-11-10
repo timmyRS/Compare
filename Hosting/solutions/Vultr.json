@@ -2,8 +2,8 @@
 	"name": "Vultr",
 	"compare_points": {
 		"ipsix": {
-			"support": 1,
 			"info": "Optional /64 IPv6"
+			"support": 1,	
 		},
 		"virtulization": {
 			"info": "Unknown",
