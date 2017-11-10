@@ -2,7 +2,7 @@
 	"name": "OMGServ",
 	"compare_points": {
 		"ipsix": {
-			"info": "No IPv6"
+			"info": "No IPv6",
 			"support": -1,		
 		},
 		"virtulization": {
