@@ -134,21 +134,17 @@ function updateAddSolutionModal()
 
 function removeSolution(id)
 {
-	var open_solutions_ = [];
-	for(i in open_solutions)
+	if($.inArray(id, open_solutions) > -1)
 	{
-		if(i != id)
+		open_solutions.splice($.inArray(id, open_solutions), 1);
+		if(open_solutions.length > 0)
 		{
-			open_solutions_.push(open_solutions[i]);
+			location.hash = branch + ":" + open_solutions.join(",");
 		}
-	}
-	if(open_solutions_.length > 0)
-	{
-		location.hash = branch + ":" + open_solutions_.join(",");
-	}
-	else
-	{
-		location.hash = branch;
+		else
+		{
+			location.hash = branch;
+		}
 	}
 	$(".tooltip").remove();
 }

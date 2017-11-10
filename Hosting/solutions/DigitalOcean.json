@@ -1,0 +1,9 @@
+{
+	"name": "DigitalOcean",
+	"compare_points": {
+		"ipsix": {
+			"support": 0,
+			"info": "16 IPv6. Not by default."
+		}
+	}
+}
