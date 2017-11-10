@@ -2,8 +2,8 @@
 	"name": "OMGServ",
 	"compare_points": {
 		"ipsix": {
-			"support": 0,
 			"info": "No IPv6"
+			"support": -1,		
 		},
 		"virtulization": {
 			"info": "OpenVZ",
