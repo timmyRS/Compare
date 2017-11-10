@@ -6,7 +6,7 @@
 			"support": 1
 		},
 		"virtulization": {
-			"info": "Unknown",
+			"info": "KVM",
 		},
 		"port_speed": {
 			"info": "10Gbps",
