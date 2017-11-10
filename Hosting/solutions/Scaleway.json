@@ -2,8 +2,11 @@
 	"name": "Scaleway",
 	"compare_points": {
 		"ipsix": {
-			"support": 0,
-			"info": "No IPv6"
+			"info": "Optional IPv6"
+			"support": 1,
+			"cites": [
+			"https://blog.online.net/2016/03/31/introducing-native-ipv6-connectivity-on-scaleway/"
+			]		
 		},
 		"virtulization": {
 			"info": "OpenVZ",
