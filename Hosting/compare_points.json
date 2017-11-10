@@ -23,6 +23,10 @@
 		"name": "Price per TB of storage",
 		"desc": "The price per TB of storage in euros."
 	},
+	"locations": {
+		"name": "Locations",
+		"desc": "The amount of locations offered"
+	},
 	"points": {
 		"name": "Relative Points",
 		"desc": "All supported and partially supported features in this table added up where partial support only gives half a point."
