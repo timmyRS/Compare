@@ -1,0 +1,32 @@
+{
+	"name": "Vultr",
+	"compare_points": {
+		"ipsix": {
+			"info": "Optional /64 IPv6",
+			"support": 1
+		},
+		"virtulization": {
+			"info": "KVM"
+		},
+		"port_speed": {
+			"info": "10Gbps"
+		},
+		"gb_price": {
+			"info": "$5 / GB",
+			"cites": [
+				"https://www.vultr.com/pricing/"
+			]
+		},
+		"support": {
+			"info": "Offers support",
+			"support": 1,
+			"cites": [
+				"https://cloud.google.com/support/"
+			]
+		},
+		"tb_price": {
+			"info": "$100 / TB SSD",
+			"support": 1
+		}
+	}
+}

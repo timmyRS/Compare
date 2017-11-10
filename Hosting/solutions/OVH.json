@@ -1,0 +1,29 @@
+{
+	"name": "OVH",
+	"compare_points": {
+		"ipsix": {
+			"info": "Contact required.",
+			"support": 0
+		},
+		"virtulization": {
+			"info": "Unknown"
+		},
+		"port_speed": {
+			"info": "100Mbps"
+		},
+		"gb_price": {
+			"info": "€1.78 / GB",
+			"cites": [
+				"https://www.ovh.de/virtual_server/vps-ssd.xml"
+			]
+		},
+		"support": {
+			"info": "Offers support",
+			"support": 1
+		},
+		"tb_price": {
+			"info": "Up to 500GB only.",
+			"support": 0
+		}
+	}
+}

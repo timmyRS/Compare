@@ -3,6 +3,26 @@
 		"name": "IPv6",
 		"desc": "You should be given at least 1 IPv6 by default."
 	},
+	"virtulization": {
+		"name": "Virtulization",
+		"desc": "Most hosts will use either KVM, Xen or OpenVZ."
+	},
+	"port_speed": {
+		"name": "Port Speed",
+		"desc": "The claimed speed of the port (should be at least 100Mbps)."
+	},
+	"gb_price": {
+		"name": "Price per GB of RAM",
+		"desc": "The price per GB of RAM in euros."
+	},
+	"support": {
+		"name": "Support",
+		"desc": "Does the host offer support?"
+	},
+	"tb_price": {
+		"name": "Price per TB of storage",
+		"desc": "The price per TB of storage in euros."
+	},
 	"points": {
 		"name": "Relative Points",
 		"desc": "All supported and partially supported features in this table added up where partial support only gives half a point."
