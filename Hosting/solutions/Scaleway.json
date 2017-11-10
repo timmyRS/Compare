@@ -1,0 +1,32 @@
+{
+	"name": "Scaleway",
+	"compare_points": {
+		"ipsix": {
+			"info": "Optional IPv6",
+			"support": 1,
+			"cites": [
+			"https://blog.online.net/2016/03/31/introducing-native-ipv6-connectivity-on-scaleway/"
+			]		
+		},
+		"virtulization": {
+			"info": "Unknown"
+		},
+		"port_speed": {
+			"info": "100Mbps-1Gbps"
+		},
+		"gb_price": {
+			"info": "€1.49 / GB",
+			"cites": [
+				"https://www.scaleway.com/pricing/"
+			]
+		},
+		"support": {
+			"info": "Offers support",
+			"support": 1
+		},
+		"tb_price": {
+			"info": "€20 / TB",
+			"support": 1
+		}
+	}
+}
