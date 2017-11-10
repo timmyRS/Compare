@@ -22,8 +22,8 @@
 			"support": 1
 		},
 		"tb_price": {
-			"info": "Not offered",
-			"support": -1
+			"info": "Up to 100GB",
+			"support": 0
 		},
 		"locations": {
 			"info": "1 Location"
