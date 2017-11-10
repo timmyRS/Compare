@@ -50,6 +50,14 @@ function loadBranch(branch_, callback)
 				branch = branch_,
 				compare_points = compare_points_,
 				known_solutions = known_solutions_;
+				compare_points["points"] = {
+					"name": "Relative Points",
+					"desc": "All supported and partially supported features in this table added up where partial support only gives half a point."
+				};
+				compare_points["points_absolute"] = {
+					"name": "Absolute Points",
+					"desc": "All supported and partially supported features of this solution added up where partial support only gives half a point."
+				};
 				$("#select-solution strong").html(branch);
 				var select = $("#select-solution").find("select").html("<option></option>");
 				for(i in known_solutions)

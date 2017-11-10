@@ -86,13 +86,5 @@
 	"api": {
 		"name": "API",
 		"desc": "You should be able to access and modify all data without using any graphical interface."
-	},
-	"points": {
-		"name": "Relative Points",
-		"desc": "All supported and partially supported features in this table added up where partial support only gives half a point."
-	},
-	"points_absolute": {
-		"name": "Absolute Points",
-		"desc": "All supported and partially supported features of this solution added up where partial support only gives half a point."
 	}
 }
