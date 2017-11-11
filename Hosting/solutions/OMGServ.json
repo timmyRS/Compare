@@ -23,7 +23,7 @@
 		},
 		"tb_price": {
 			"info": "Up to 100GB",
-			"support": 0
+			"support": -1
 		},
 		"locations": {
 			"info": "1 Location"
