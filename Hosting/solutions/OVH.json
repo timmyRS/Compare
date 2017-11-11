@@ -29,7 +29,7 @@
 			"info": "5 Locations"
 		},
 		"api": {
-			"support": 1
+			"support": 1,
 			"cites": [
 				"https://api.ovh.com/console/"
 			]
