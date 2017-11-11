@@ -2,14 +2,15 @@
 	"name": "Linode",
 	"compare_points": {
 		"ipsix": {
-			"info": "Optional 1 IPv6",
+			"info": "Optional IPv6",
 			"support": 1
 		},
 		"virtulization": {
 			"info": "KVM"
 		},
 		"port_speed": {
-			"info": "1Gbps"
+			"support": 1,
+			"info": "1 Gbps"
 		},
 		"gb_price": {
 			"info": "$5 / GB",
@@ -18,7 +19,6 @@
 			]
 		},
 		"support": {
-			"info": "Offers support",
 			"support": 1,
 			"cites": [
 				"https://www.linode.com/contact"

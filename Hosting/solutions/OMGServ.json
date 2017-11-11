@@ -2,31 +2,26 @@
 	"name": "OMGServ",
 	"compare_points": {
 		"ipsix": {
-			"info": "No IPv6",
 			"support": -1	
 		},
 		"virtulization": {
 			"info": "OpenVZ"
 		},
 		"port_speed": {
-			"info": "100Mbps"
+			"support": -1,
+			"info": "100 Mbps"
 		},
 		"gb_price": {
-			"info": "€2.49 / GB",
+			"info": "2.49€ / GB",
 			"cites": [
 				"https://www.omgserv.com/en/hosting/vps/ssd/"
 			]
 		},
 		"support": {
-			"info": "Offers support",
 			"support": 1
 		},
-		"tb_price": {
-			"info": "Up to 100GB",
-			"support": 0
-		},
 		"locations": {
-			"info": "1 Location"
+			"info": "1 Location. Citation needed."
 		},
 		"api": {
 			"support": -1
