@@ -30,6 +30,13 @@
 		},
 		"locations": {
 			"info": "15 Locations"
+		},
+		"api": {
+			"info": "Offers an API",
+			"support": 1,
+			"cites": [
+				"https://www.vultr.com/api/"
+			]
 		}
 	}
 }
