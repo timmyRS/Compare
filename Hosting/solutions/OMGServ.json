@@ -30,7 +30,7 @@
 		},
 		"api": {
 			"info": "No API offered",
-			"support": 0
+			"support": -1
 		}
 	}
 }
