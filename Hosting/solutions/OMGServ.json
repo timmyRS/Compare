@@ -23,14 +23,14 @@
 		},
 		"tb_price": {
 			"info": "Up to 100GB",
-			"support": -1
+			"support": 0
 		},
 		"locations": {
 			"info": "1 Location"
 		},
 		"api": {
 			"info": "No API offered",
-			"support": 0
+			"support": -1
 		}
 	}
 }
