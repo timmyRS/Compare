@@ -30,9 +30,9 @@
 		},
 		"locations": {
 			"info": "8 Locations",
-      "cites": [
-        "https://blog.linode.com/category/datacenters/"
-      ]
+			"cites": [
+				"https://blog.linode.com/category/datacenters/"
+			]
 		},
 		"api": {
 			"info": "Offers an API",
