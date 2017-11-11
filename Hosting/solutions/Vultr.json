@@ -9,7 +9,8 @@
 			"info": "KVM"
 		},
 		"port_speed": {
-			"info": "10Gbps"
+			"support": 1,
+			"info": "10 Gbps"
 		},
 		"gb_price": {
 			"info": "$5 / GB",
@@ -18,7 +19,6 @@
 			]
 		},
 		"support": {
-			"info": "Offers support",
 			"support": 1,
 			"cites": [
 				"https://www.vultr.com/contact/"
@@ -29,7 +29,7 @@
 			"support": 1
 		},
 		"locations": {
-			"info": "15 Locations"
+			"info": "15 Locations. Citation needed."
 		},
 		"api": {
 			"support": 1,

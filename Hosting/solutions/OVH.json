@@ -5,20 +5,17 @@
 			"info": "Contact required.",
 			"support": 0
 		},
-		"virtulization": {
-			"info": "Unknown"
-		},
 		"port_speed": {
+			"support": -1,
 			"info": "100Mbps"
 		},
 		"gb_price": {
-			"info": "€1.78 / GB",
+			"info": "1.78€ / GB",
 			"cites": [
 				"https://www.ovh.de/virtual_server/vps-ssd.xml"
 			]
 		},
 		"support": {
-			"info": "Offers support",
 			"support": 1
 		},
 		"tb_price": {
@@ -26,7 +23,7 @@
 			"support": 0
 		},
 		"locations": {
-			"info": "5 Locations"
+			"info": "5 Locations. Citation needed."
 		},
 		"api": {
 			"support": 1,

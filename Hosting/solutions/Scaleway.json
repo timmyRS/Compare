@@ -5,23 +5,20 @@
 			"info": "Optional IPv6",
 			"support": 1,
 			"cites": [
-			"https://blog.online.net/2016/03/31/introducing-native-ipv6-connectivity-on-scaleway/"
+				"https://blog.online.net/2016/03/31/introducing-native-ipv6-connectivity-on-scaleway/"
 			]		
 		},
-		"virtulization": {
-			"info": "Unknown"
-		},
 		"port_speed": {
-			"info": "100Mbps-1Gbps"
+			"support": 0,
+			"info": "100 Mbps - 1 Gbps"
 		},
 		"gb_price": {
-			"info": "€1.49 / GB",
+			"info": "1.49€ / GB",
 			"cites": [
 				"https://www.scaleway.com/pricing/"
 			]
 		},
 		"support": {
-			"info": "Offers support",
 			"support": 1
 		},
 		"tb_price": {
@@ -29,7 +26,7 @@
 			"support": 1
 		},
 		"locations": {
-			"info": "2 Locations"
+			"info": "2 Locations. Citation needed."
 		},
 		"api": {
 			"support": 1,
