@@ -12,7 +12,8 @@
 			]
 		},
 		"port_speed": {
-			"info": "1Gbps",
+			"support": 1,
+			"info": "1 Gbps",
 			"cites": [
 				"https://www.digitalocean.com/community/questions/upload-and-download-speed-of-a-droplet",
 				"https://www.digitalocean.com/community/questions/how-fast-is-the-internet-connection-to-my-droplet"
@@ -25,7 +26,6 @@
 			]
 		},
 		"support": {
-			"info": "Offers support",
 			"support": 1
 		},
 		"tb_price": {
@@ -33,7 +33,7 @@
 			"support": 1
 		},
 		"locations": {
-			"info": "8 Locations"
+			"info": "8 Locations. Citation needed."
 		},
 		"api": {
 			"support": 1,

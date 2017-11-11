@@ -1,31 +1,31 @@
 {
 	"ipsix": {
 		"name": "IPv6",
-		"desc": "You should be given at least 1 IPv6 by default."
+		"desc": "You should have the option to get an IPv6 IP for your server."
 	},
 	"virtulization": {
-		"name": "Virtulization",
-		"desc": "Most hosts will use either KVM, Xen or OpenVZ."
+		"name": "Virtualization",
+		"desc": "The virtualization technology the hoster uses."
 	},
 	"port_speed": {
 		"name": "Port Speed",
-		"desc": "The claimed speed of the port (should be at least 100Mbps)."
+		"desc": "You should have a port speed of over 100Mbps."
 	},
 	"gb_price": {
-		"name": "Price per GB of RAM",
-		"desc": "The price per GB of RAM in euros."
+		"name": "Price / GB RAM",
+		"desc": "The price per GB of RAM."
 	},
 	"support": {
 		"name": "Support",
-		"desc": "Does the host offer support?"
+		"desc": "There should be customer support provided."
 	},
 	"tb_price": {
-		"name": "Price per TB of storage",
-		"desc": "The price per TB of storage in euros."
+		"name": "Price / TB",
+		"desc": "The price per TB of the hoster's storage solution."
 	},
 	"locations": {
 		"name": "Locations",
-		"desc": "The amount of locations offered"
+		"desc": "The amount of locations offered."
 	},
 	"api": {
 		"name": "API",
