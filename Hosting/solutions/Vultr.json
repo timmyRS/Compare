@@ -29,7 +29,10 @@
 			"support": 1
 		},
 		"locations": {
-			"info": "15 Locations. Citation needed."
+			"info": "15 Locations",
+			"cites": [
+				"https://www.vultr.com/locations/"
+			]
 		},
 		"api": {
 			"support": 1,
