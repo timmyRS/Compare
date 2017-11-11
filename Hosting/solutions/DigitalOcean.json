@@ -36,7 +36,6 @@
 			"info": "8 Locations"
 		},
 		"api": {
-			"info": "Offers an API",
 			"support": 1,
 			"cites": [
 				"https://developers.digitalocean.com/"
