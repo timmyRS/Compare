@@ -35,7 +35,7 @@
 			]
 		},
 		"api": {
-			"support": 1
+			"support": 1,
 			"cites": [
 				"https://developers.linode.com/"
 			]
