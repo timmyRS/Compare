@@ -10,7 +10,10 @@
 		},
 		"port_speed": {
 			"support": 1,
-			"info": "1 Gbps"
+			"info": "40 Gbps",
+			"cites": [
+			"https://www.linode.com/pricing"
+			]
 		},
 		"gb_price": {
 			"info": "$5 / GB",
