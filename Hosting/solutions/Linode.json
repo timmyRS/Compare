@@ -1,0 +1,45 @@
+{
+	"name": "Linode",
+	"compare_points": {
+		"ipsix": {
+			"info": "Optional 1 IPv6",
+			"support": 1
+		},
+		"virtulization": {
+			"info": "KVM"
+		},
+		"port_speed": {
+			"info": "1Gbps"
+		},
+		"gb_price": {
+			"info": "$5 / GB",
+			"cites": [
+				"https://www.linode.com/pricing/"
+			]
+		},
+		"support": {
+			"info": "Offers support",
+			"support": 1,
+			"cites": [
+				"https://www.linode.com/contact"
+			]
+		},
+		"tb_price": {
+			"info": "$100 / TB SSD",
+			"support": 1
+		},
+		"locations": {
+			"info": "8 Locations",
+      "cites": [
+        "https://blog.linode.com/category/datacenters/"
+      ]
+		},
+		"api": {
+			"info": "Offers an API",
+			"support": 1,
+			"cites": [
+				"https://developers.linode.com/"
+			]
+		}
+	}
+}
