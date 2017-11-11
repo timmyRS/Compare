@@ -11,13 +11,17 @@
 		"name": "Port Speed",
 		"desc": "You should have a port speed of over 100Mbps."
 	},
-	"gb_price": {
-		"name": "Price / GB RAM",
-		"desc": "The price per GB of RAM."
-	},
 	"support": {
 		"name": "Support",
 		"desc": "There should be customer support provided."
+	},
+	"api": {
+		"name": "API",
+		"desc": "You should be provided with an API."
+	},
+	"gb_price": {
+		"name": "Price / GB RAM",
+		"desc": "The price per GB of RAM."
 	},
 	"tb_price": {
 		"name": "Price / TB",
@@ -26,9 +30,5 @@
 	"locations": {
 		"name": "Locations",
 		"desc": "The amount of locations offered."
-	},
-	"api": {
-		"name": "API",
-		"desc": "You should be provided with an API."
 	}
 }
