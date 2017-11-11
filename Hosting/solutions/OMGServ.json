@@ -27,6 +27,10 @@
 		},
 		"locations": {
 			"info": "1 Location"
+		},
+		"api": {
+			"info": "No API offered",
+			"support": 0
 		}
 	}
 }

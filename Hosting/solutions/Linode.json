@@ -1,27 +1,27 @@
 {
-	"name": "Vultr",
+	"name": "Linode",
 	"compare_points": {
 		"ipsix": {
-			"info": "Optional /64 IPv6",
+			"info": "Optional 1 IPv6",
 			"support": 1
 		},
 		"virtulization": {
 			"info": "KVM"
 		},
 		"port_speed": {
-			"info": "10Gbps"
+			"info": "1Gbps"
 		},
 		"gb_price": {
 			"info": "$5 / GB",
 			"cites": [
-				"https://www.vultr.com/pricing/"
+				"https://www.linode.com/pricing/"
 			]
 		},
 		"support": {
 			"info": "Offers support",
 			"support": 1,
 			"cites": [
-				"https://www.vultr.com/contact/"
+				"https://www.linode.com/contact"
 			]
 		},
 		"tb_price": {
@@ -29,13 +29,16 @@
 			"support": 1
 		},
 		"locations": {
-			"info": "15 Locations"
+			"info": "8 Locations",
+			"cites": [
+				"https://blog.linode.com/category/datacenters/"
+			]
 		},
 		"api": {
 			"info": "Offers an API",
 			"support": 1,
 			"cites": [
-				"https://www.vultr.com/api/"
+				"https://developers.linode.com/"
 			]
 		}
 	}

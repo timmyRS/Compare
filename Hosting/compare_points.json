@@ -26,5 +26,9 @@
 	"locations": {
 		"name": "Locations",
 		"desc": "The amount of locations offered"
+	},
+	"api": {
+		"name": "API",
+		"desc": "You should be provided with an API."
 	}
 }
