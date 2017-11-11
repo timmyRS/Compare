@@ -32,7 +32,6 @@
 			"info": "2 Locations"
 		},
 		"api": {
-			"info": "Offers an API",
 			"support": 1,
 			"cites": [
 				"https://developer.scaleway.com/"
