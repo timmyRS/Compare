@@ -6,7 +6,7 @@
 			"support": 0
 		},
 		"port_speed": {
-			"support": -1
+			"support": -1,
 			"info": "100Mbps"
 		},
 		"gb_price": {
