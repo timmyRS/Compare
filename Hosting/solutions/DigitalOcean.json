@@ -33,7 +33,10 @@
 			"support": 1
 		},
 		"locations": {
-			"info": "8 Locations. Citation needed."
+			"info": "8 Locations",
+			"cites": [
+				"https://www.digitalocean.com/"
+			]
 		},
 		"api": {
 			"support": 1,
