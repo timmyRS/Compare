@@ -23,7 +23,10 @@
 			"support": 0
 		},
 		"locations": {
-			"info": "5 Locations. Citation needed."
+			"info": "5 Locations",
+			"cites": [
+				"https://www.ovh.co.uk/aboutus/datacentres.xml"
+			]
 		},
 		"api": {
 			"support": 1,
