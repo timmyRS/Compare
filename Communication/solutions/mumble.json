@@ -84,7 +84,7 @@
 			]
 		},
 		"api": {
-			"support": 0,
+			"support": 1,
 			"info": "Native API",
 			"cites": [
 				"https://wiki.mumble.info/wiki/Pluginguide"

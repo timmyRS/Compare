@@ -58,8 +58,7 @@
 			"support": 1
 		},
 		"editing": {
-			"support": 1,
-			"info": "Deleted messages are shown as 'This message has been removed.'"
+			"support": 1
 		},
 		"files": {
 			"support": 1,
